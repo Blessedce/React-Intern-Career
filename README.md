@@ -3,7 +3,7 @@
 
 - 🤝 I’m open to **collaborations and change to my code to make this project better.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
